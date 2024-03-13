@@ -1,0 +1,11 @@
+.red-text{
+    color:red;
+    font-weight: 600;
+}
+.green-text{
+    color:green;
+    font-weight: 700;
+}
+body{
+    background-color: aliceblue;
+}
